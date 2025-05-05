@@ -5,6 +5,7 @@
 open the terminal and run the following
 
 git config --global user.name 'Your Name'
+
 git config --global user.email 'your@mail.com'
 
 ## 2. clone the repo
