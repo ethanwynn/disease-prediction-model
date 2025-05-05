@@ -2,7 +2,7 @@
 
 
 ## 1. set up your git in vscode
-open the terminal and run the following
+open the terminal and run the following\n
 git config --global user.name 'Your Name'
 git config --global user.email 'your@mail.com'
 
