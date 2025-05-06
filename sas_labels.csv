@@ -1,0 +1,88 @@
+Variable,SAS label
+SEQN,Respondent sequence number
+SDDSRVYR,Data release cycle
+RIDSTATR,Interview/Examination status
+RIAGENDR,Gender
+RIDAGEYR,Age in years at screening
+RIDRETH1,Race/Hispanic origin
+RIDEXMON,Six-month time period
+DMQMILIZ,Served active duty in US Armed Forces
+DMDBORN4,Country of birth
+DMDEDUC2,Education level - Adults 20+
+DMDMARTZ,Marital status
+DMDHHSIZ,Total number of people in the Household
+WTINT2YR,Full sample 2-year interview weight
+WTMEC2YR,Full sample 2-year MEC exam weight
+SDMVSTRA,Masked variance pseudo-stratum
+SDMVPSU,Masked variance pseudo-PSU
+INDFMPIR,Ratio of family income to poverty
+MCQ010,Ever been told you have asthma
+AGQ030,Did SP have episode of hay fever/past yr
+MCQ053,Taking treatment for anemia/past 3 mos
+MCQ160A,Doctor ever said you had arthritis
+MCQ160B,Ever told had congestive heart failure
+MCQ160C,Ever told you had coronary heart disease
+MCQ160D,Ever told you had angina/angina pectoris
+MCQ160E,Ever told you had heart attack
+MCQ160F,Ever told you had a stroke
+MCQ160M,Ever told you had thyroid problem
+MCQ160P,"Ever told you had COPD, emphysema, ChB"
+MCQ160L,Ever told you had any liver condition
+MCQ550,Has DR ever said you have gallstones
+MCQ560,Ever had gallbladder surgery?
+MCQ220,Ever told you had cancer or malignancy
+DIQ010,Doctor told you have diabetes
+DIQ160,Ever told you have prediabetes
+DIQ180,Had blood tested past three years
+BPQ020,Ever told you had high blood pressure
+BPQ080,Doctor told you - high cholesterol level
+BPQ101D,Taking meds to lower blood cholesterol?
+RXQ033,"Taken prescription medicine, past month"
+RXQ050,Number of prescription medicines taken
+LBXWBCSI,White blood cell count (1000 cells/uL)
+LBXLYPCT,Lymphocyte percent (%)
+LBXMOPCT,Monocyte percent (%)
+LBXEOPCT,Eosinophils percent (%)
+LBXBAPCT,Basophils percent (%)
+LBDLYMNO,Lymphocyte number (1000 cells/uL)
+LBDMONO,Monocyte number (1000 cells/uL)
+LBDNENO,Segmented neutrophils num (1000 cell/uL)
+LBDEONO,Eosinophils number (1000 cells/uL)
+LBDBANO,Basophils number (1000 cells/uL)
+LBXRBCSI,Red blood cell count (million cells/uL)
+LBXHGB,Hemoglobin (g/dL)
+LBXMCVSI,Mean cell volume (fL)
+LBXMC,Mean Cell Hgb Conc. (g/dL)
+LBXRDW,Red cell distribution width (%)
+LBXPLTSI,Platelet count (1000 cells/uL)
+LBXMPSI,Mean platelet volume (fL)
+LBXNRBC,Nucleated red blood cells (/100 WBC)
+BMDSTATS,Body Measures Component Status Code
+BMXWT,Weight (kg)
+BMXHT,Standing Height (cm)
+BMXLEG,Upper Leg Length (cm)
+IMQ011,Received Hepatitis A vaccine
+PAD790Q,Frequency of moderate LTPA
+PAD800,Minutes moderate LTPA
+PAD810Q,Frequency of vigorous LTPA
+PAD680,Minutes sedentary activity
+SMQ020,Smoked at least 100 cigarettes in life
+SMAQUEX2,Questionnaire Mode Flag
+DBQ930,Main meal planner/preparer
+DBQ935,Shared meal planning/preparing duty
+DBQ940,Main food shopper
+DBQ945,Shared food shopping duty
+HIQ011,Covered by health insurance
+HIQ210,Time when no insurance in past year?
+HOD051,Number of rooms in home
+INDFMMPI,Family monthly poverty level index
+INDFMMPC,Family monthly poverty level category
+INQ300,"Family has savings more than $20,000"
+PUQ100,Products used in home to control insects
+PUQ110,Products used to kill weeds?
+OCD150,Type of work done last week
+LBXGH,Glycohemoglobin (%)
+BPAOCSZ,Coded cuff size - oscillometric
+BPXOSY1,Systolic - 1st oscillometric reading
+BPXODI1,Diastolic - 1st oscillometric reading
+BPXOPLS1,Pulse - 1st oscillometric reading
